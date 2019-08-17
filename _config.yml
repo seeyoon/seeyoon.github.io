@@ -17,7 +17,7 @@ sidebar-avatar: /img/avatar-seeyoon.JPG      # use absolute URL, seeing it's use
 
 
 # SNS settings
-RSS: false
+RSS: true
 weibo_username:     bibifans
 zhihu_username:     seeyoon
 github_username:    seeyoon
