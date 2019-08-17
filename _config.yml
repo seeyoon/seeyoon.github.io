@@ -12,7 +12,7 @@ github_repo: "https://github.com/seeyoon/seeyoon.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "一个努力感受世界，</br>接着努力分享生活的人。"
-sidebar-avatar: avatar-seeyoon.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-seeyoon.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
