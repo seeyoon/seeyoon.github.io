@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 091554484e757294ad4b                            #生成的clientID
   clientSecret: 24916889598344be6365bb715155dc910c776064    #生成的clientSecret
-  repo: seeyoon.github.io    #仓库名称
+  repo: http://haosiyuan.cn   #仓库名称
   owner: seeyoon    #github用户名
   admin: seeyoon
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
