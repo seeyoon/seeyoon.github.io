@@ -7,7 +7,7 @@ description: "Let the sunshine in, face it with a grin."
 keyword: "Seeyoon, 郝老师, 思远, 旅行, 思考, 生活, 酒店, 营销"
 url: "http://www.haosiyuan.cn"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/seeyoon/seeyoon.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
